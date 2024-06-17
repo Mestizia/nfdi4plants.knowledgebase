@@ -77,6 +77,7 @@ The following table gives an overview about DataPLANT tools and services related
 
 Name | Type | Tasks on metadata 
 ----------------|-----------|------------------ 
+**[Metadata Recommendation Tool][kb-MetadataRecommendationTool]**  | Service | **Identify:** <ul><li>determine relevant metadata to collect</li></ul>
 **[ARC][kb-AnnotatedResearchContext]**  <br> (Annotated Research Context) | Standard | **Structure:** <ul><li>Package data with metadata</li></ul>
 **[Swate][gh-Swate]** <br> (Swate Workflow Annotation Tool for Excel) | Tool | **Collect and structure:** <ul><li>Annotate experimental and computational workflows with ISA metadata schema</li><li>Easy use of ontologies and controlled vocabularies</li><li>Metadata templates for versatile data types</li></ul>
 **[ARC Commander][kb-ArcCommander-Manual]** | Tool | **Collect, structure and share:** <ul><li>Add bibliographical metadata to your ARC</li><li>ARC version control and sharing via DataPLANT's DataHUB</li><li>Automated metadata referencing and version control as your ARC grows</li></ul>
@@ -112,6 +113,7 @@ Name | Type | Tasks on metadata
 <!-- kb-Implementation -->
 [kb-AnnotatedResearchContext]: ../implementation/AnnotatedResearchContext.html "Annotated Research Context"
 [kb-DataHub]: ../implementation/DataHub.html "DataPLANT DataHUB"
+[kb-MetadataRecommendationTool]: ../implementation/DataHub.html "Metadata Recommendation Tool"
 
 <!-- kb-Tutorials -->
 [kb-QuickStart_arc]: ../tutorials/ARCUserJourney.html "ARC User Journey"
